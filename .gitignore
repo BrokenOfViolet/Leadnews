@@ -1,0 +1,34 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+out/
+
+# Build
+target/
+build/
+bin/
+.gradle/
+.mvn/
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+*.class
+*.jar
+*.war
+*.ear
+
+# Env & Config
+.env
+.env.*
+application-*.yml
+application-*.yaml
+application-*.properties
+
