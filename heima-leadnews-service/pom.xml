@@ -13,6 +13,11 @@
     <packaging>pom</packaging>
     <modules>
         <module>heima-leadnews-user</module>
+<<<<<<< HEAD
+=======
+        <module>heima-leadnews-article</module>
+        <module>heima-leadnews-wemedia</module>
+>>>>>>> 9813e76 (feat: init wemedia function)
     </modules>
 
     <properties>

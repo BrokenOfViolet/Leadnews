@@ -25,6 +25,14 @@
             <groupId>com.heima</groupId>
             <artifactId>heima-leadnews-common</artifactId>
         </dependency>
+<<<<<<< HEAD
+=======
+
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
+>>>>>>> 9813e76 (feat: init wemedia function)
     </dependencies>
 
 </project>

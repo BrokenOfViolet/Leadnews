@@ -10,7 +10,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>heima-leadnews-test</artifactId>
+<<<<<<< HEAD
 
+=======
+    <packaging>pom</packaging>
+    <modules>
+        <module>freemarker-demo</module>
+        <module>minio-demo</module>
+        <module>tess4j-demo</module>
+    </modules>
+>>>>>>> 9813e76 (feat: init wemedia function)
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>

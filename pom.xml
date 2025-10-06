@@ -16,6 +16,10 @@
         <module>heima-leadnews-service</module>
         <module>heima-leadnews-gateway</module>
         <module>heima-leadnews-test</module>
+<<<<<<< HEAD
+=======
+        <module>heima-leadnews-basic</module>
+>>>>>>> 9813e76 (feat: init wemedia function)
     </modules>
 
     <!-- 继承Spring boot工程 -->

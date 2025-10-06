@@ -44,4 +44,9 @@
             <artifactId>springfox-swagger-ui</artifactId>
         </dependency>
     </dependencies>
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 9813e76 (feat: init wemedia function)
 </project>
